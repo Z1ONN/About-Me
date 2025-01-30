@@ -12,16 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Z1ONN&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Z1ONN&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Z1ONN/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Z1ONN/Z1ONN/output/snake.svg" alt="Snake animation" />
-
-###
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
